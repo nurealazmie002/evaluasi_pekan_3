@@ -9,13 +9,13 @@ commit 06bb74f030131ba202ef20d383481e3afd63e242 (origin/about-us)
 Author: iqbaljlldn iqbaljalaludin1309@gmail.com
 Date:   Thu Aug 21 18:34:12 2025 +0700
 
-    **my second commits**
+**my second commits**
 
 commit be72ca73cc36df6a616a8f43d82effbce5da9a55
 Author: iqbaljlldn iqbaljalaludin1309@gmail.com
 Date:   Thu Aug 21 18:22:42 2025 +0700
 
-    **apa ya lupa**
+ **apa ya lupa**
 
 commit 0d965c4cf6ec50d591d60fe937600492726e4c9f
 Author: iqbaljlldn iqbaljalaludin1309@gmail.com
