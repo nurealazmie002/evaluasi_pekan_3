@@ -24,8 +24,13 @@ Date:   Thu Aug 21 18:17:26 2025 +0700
 **MY SECOND COMMITS TERDAPAT PADA BRANCH ABOUT US, JADI:KITA LIAT Commitan "apa ya lupa"**
 **--> kita track filenya...**
 3.  *API key terdapat pada commit : "apa ya lupa" dan ada di baris ke 4 : *
+
 [2025-08-21 10:00:00] INFO: Server started successfully.
+
 [2025-08-21 10:05:12] DEBUG: Processing request for image banner.jpg.
+
 [2025-08-21 10:05:15] CRITICAL: API connection failed. Using fallback key for auth.
+
 **[2025-08-21 10:05:16] DEBUG: Auth details - User: admin, Key: xA-tOpSecReT-12345**
+
 [2025-08-21 10:06:00] INFO: Request completed.
